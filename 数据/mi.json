@@ -1,0 +1,93 @@
+{
+    "goodslist": [
+        [
+            {
+                "Id": "10001",
+                "img": "http://127.0.0.1:3000/img/小米10pro.png",
+                "name": "小米10 Pro",
+                "brief": "骁龙865 / 50倍变焦",
+                "price": "4999 起",
+                "num": 0
+            },
+            {
+                "Id": "10002",
+                "img": "http://127.0.0.1:3000/img/小米10.png",
+                "name": "小米10",
+                "brief": "骁龙865/1亿像素相机",
+                "price": "3999 起",
+                "num": 0
+            }
+        ],
+        [
+            {
+                "Id": "10003",
+                "img": "http://127.0.0.1:3000/img/Redmi K30 4G.png",
+                "name": "Redmi K30",
+                "brief": "120Hz流速屏，全速热爱",
+                "price": "1699 起",
+                "num": 0
+            },
+            {
+                "Id": "10004",
+                "img": "http://127.0.0.1:3000/img/Redmi K30 5G.png",
+                "name": "Redmi K30 5G",
+                "brief": "双模5G，120Hz流速屏",
+                "price": "1999 起",
+                "num": 0
+            }
+        ],
+        [
+            {
+                "Id": "10005",
+                "img": "http://127.0.0.1:3000/img/Redmi Note 8 Pro.png",
+                "name": "Redmi Note 8 Pro",
+                "brief": "6400万全场景四摄",
+                "price": "1199 起",
+                "num": 0
+            },
+            {
+                "Id": "10006",
+                "img": "http://127.0.0.1:3000/img/Redmi Note 8.png",
+                "name": "Redmi Note 8",
+                "brief": "千元4800万四摄",
+                "price": "999 起"
+,
+"num": 0            }
+        ],
+        [
+            {
+                "Id": "10007",
+                "img": "http://127.0.0.1:3000/img/小米cc9pro.png",
+                "name": "小米CC9 Pro",
+                "brief": "1亿像素 五摄四闪",
+                "price": "2599 起",
+                "num": 0
+            },
+            {
+                "Id": "10008",
+                "img": "http://127.0.0.1:3000/img/小米cc9.png",
+                "name": "小米CC9",
+                "brief": "3200万自拍，4800万三摄",
+                "price": "1499 起",
+                "num": 0
+            }
+        ]
+    ],
+    "lunbo": [
+        "http://127.0.0.1:3000/img/lun1.webp",
+        "http://127.0.0.1:3000/img/lun2.webp",
+        "http://127.0.0.1:3000/img/lun3.webp"
+    ],
+    "tuijian": [
+        "http://127.0.0.1:3000/img/list1.png",
+        "http://127.0.0.1:3000/img/list2.png",
+        "http://127.0.0.1:3000/img/list3.gif",
+        "http://127.0.0.1:3000/img/list4.png",
+        "http://127.0.0.1:3000/img/list5.png",
+        "http://127.0.0.1:3000/img/list6.png",
+        "http://127.0.0.1:3000/img/list7.png",
+        "http://127.0.0.1:3000/img/list8.png",
+        "http://127.0.0.1:3000/img/list9.png",
+        "http://127.0.0.1:3000/img/list10.png"
+    ]
+}
