@@ -19,11 +19,9 @@
 
     <div class="caregory-content">
       <div id="新品" class="listbox one" ref="scrollOne">
-        <h5>新品</h5>
         <Tuijian></Tuijian>
       </div>
       <div id="手机" class="listbox two" ref="scrollTwo">
-        <h5>手机</h5>
         <CaregoreMobile></CaregoreMobile>
       </div>
       <div id="智能" class="listbox three" ref="scrollThree">

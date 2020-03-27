@@ -29,18 +29,6 @@
     <div class="content" :class="{ active: num == 1 }">
       <CaregoreMobile></CaregoreMobile>
     </div>
-    <div class="content" :class="{ active: num == 2 }">
-      <h1>2</h1>
-    </div>
-    <div class="content" :class="{ active: num == 3 }">
-      <h1>3</h1>
-    </div>
-    <div class="content" :class="{ active: num == 4 }">
-      <h1>4</h1>
-    </div>
-    <div class="content" :class="{ active: num == 5 }">
-      <h1>5</h1>
-    </div>
   </div>
 </template>
 
